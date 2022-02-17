@@ -21,6 +21,8 @@ In `~/.config/cava/config`, add the contents of `rosepine` following under the `
 
 ![moon](https://user-images.githubusercontent.com/44733677/154588594-3e5cd184-d19e-4894-9c44-fce7cbe27e67.gif)
 
+![dawn](https://user-images.githubusercontent.com/44733677/154588777-6283d212-1f92-4697-9001-e87a33c30413.gif)
+
 
 ## Thanks to
 
