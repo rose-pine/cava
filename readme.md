@@ -13,7 +13,7 @@
 
 ## Usage
 
-In `~/.config/cava/config`, add the contents of `rosepine`, `moon`, or `dawn` following under the `[color]` section.
+In `~/.config/cava/config`, add the contents of `rosepine`, `moon`, or `dawn` under the `[color]` section.
 
 ## Gallery
 
