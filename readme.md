@@ -17,7 +17,9 @@ In `~/.config/cava/config`, add the contents of `rosepine` following under the `
 
 ## Gallery
 
-![out](https://user-images.githubusercontent.com/44733677/154586874-ecefa374-7b21-422e-b98d-007bb138c693.gif)
+![rose](https://user-images.githubusercontent.com/44733677/154586874-ecefa374-7b21-422e-b98d-007bb138c693.gif)
+
+![moon](https://user-images.githubusercontent.com/44733677/154588594-3e5cd184-d19e-4894-9c44-fce7cbe27e67.gif)
 
 
 ## Thanks to
