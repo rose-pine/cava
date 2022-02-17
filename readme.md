@@ -1,6 +1,6 @@
 <p align="center">
     <img src="https://github.com/rose-pine/rose-pine-theme/raw/main/assets/icon.png" width="80" />
-    <h2 align="center">Rosé Pine for App</h2>
+    <h2 align="center">Rosé Pine for Cava</h2>
 </p>
 
 <p align="center">All natural pine, faux fur and a bit of soho vibes for the classy minimalist</p>
@@ -13,23 +13,25 @@
 
 ## Usage
 
-1. Open App
-2. Under settings, import `rose-pine.theme`
-3. Select `Rosé Pine` from the themes dropdown
+In `~/.config/cava/config`, add the following under the `[color]` section:
+```
+# In the [color] section
+background = '#191724'
+gradient = 1
+gradient_count = 6
+gradient_color_1 = '#31748f'
+gradient_color_2 = '#9ccfd8'
+gradient_color_3 = '#c4a7e7'
+gradient_color_4 = '#ebbcba'
+gradient_color_5 = '#f6c177'
+gradient_color_6 = '#eb6f92'
+```
 
 ## Gallery
 
-![Rosé Pine with App](assets/template.png)
+![out](https://user-images.githubusercontent.com/44733677/154586874-ecefa374-7b21-422e-b98d-007bb138c693.gif)
+
 
 ## Thanks to
 
-- [You, it's you!](https://github.com/<username>)
-
-## Style guide
-
-> Be sure to remove this section 😌
-
-- Lowercase meta files, eg. `readme.md`
-- Repo name should be the simplest version of the app name, eg. iterm instead of iTerm2
-- Format repo description as "Soho vibes for App"
-- Generate and upload social image via [Rosé Pine Images](https://rose-pine-images.vercel.app)
+- [ThatOneCalculator](https://github.com/thatonecalculator)
